@@ -580,8 +580,174 @@ ModelImporter:
       name: Jump_start
       takeName: Armature|CharacterAnimation
       internalID: 7400008
-      firstFrame: 296
-      lastFrame: 380
+      firstFrame: 280
+      lastFrame: 320
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Body_Upper
+        weight: 1
+      - path: Armature/Root/Body_Upper/Arm_1_Left
+        weight: 1
+      - path: Armature/Root/Body_Upper/Arm_1_Left/Arm_2_Left
+        weight: 1
+      - path: Armature/Root/Body_Upper/Arm_1_Left/Arm_2_Left/Arm_2_Left_end
+        weight: 1
+      - path: Armature/Root/Body_Upper/Arm_1_Right
+        weight: 1
+      - path: Armature/Root/Body_Upper/Arm_1_Right/Arm_2_Right
+        weight: 1
+      - path: Armature/Root/Body_Upper/Arm_1_Right/Arm_2_Right/Arm_2_Right_end
+        weight: 1
+      - path: Armature/Root/Body_Upper/Head
+        weight: 1
+      - path: Armature/Root/Body_Upper/Head/Head_end
+        weight: 1
+      - path: Armature/Root/Body_Upper/IK_Arm_Left
+        weight: 1
+      - path: Armature/Root/Body_Upper/IK_Arm_Left/IK_Arm_Left_end
+        weight: 1
+      - path: Armature/Root/Body_Upper/IK_Arm_Right
+        weight: 1
+      - path: Armature/Root/Body_Upper/IK_Arm_Right/IK_Arm_Right_end
+        weight: 1
+      - path: Armature/Root/Foot_1_Left
+        weight: 1
+      - path: Armature/Root/Foot_1_Left/Foot_2_Left
+        weight: 1
+      - path: Armature/Root/Foot_1_Left/Foot_2_Left/Foot_2_Left_end
+        weight: 1
+      - path: Armature/Root/Foot_1_Right
+        weight: 1
+      - path: Armature/Root/Foot_1_Right/Foot_2_Right
+        weight: 1
+      - path: Armature/Root/Foot_1_Right/Foot_2_Right/Foot_2_Right_end
+        weight: 1
+      - path: Armature/Root/IK_Foot_Left
+        weight: 1
+      - path: Armature/Root/IK_Foot_Left/IK_Foot_Left_end
+        weight: 1
+      - path: Armature/Root/IK_Foot_Right
+        weight: 1
+      - path: Armature/Root/IK_Foot_Right/IK_Foot_Right_end
+        weight: 1
+      - path: Player
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Flip
+      takeName: Armature|CharacterAnimation
+      internalID: 7400010
+      firstFrame: 380
+      lastFrame: 550
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Body_Upper
+        weight: 1
+      - path: Armature/Root/Body_Upper/Arm_1_Left
+        weight: 1
+      - path: Armature/Root/Body_Upper/Arm_1_Left/Arm_2_Left
+        weight: 1
+      - path: Armature/Root/Body_Upper/Arm_1_Left/Arm_2_Left/Arm_2_Left_end
+        weight: 1
+      - path: Armature/Root/Body_Upper/Arm_1_Right
+        weight: 1
+      - path: Armature/Root/Body_Upper/Arm_1_Right/Arm_2_Right
+        weight: 1
+      - path: Armature/Root/Body_Upper/Arm_1_Right/Arm_2_Right/Arm_2_Right_end
+        weight: 1
+      - path: Armature/Root/Body_Upper/Head
+        weight: 1
+      - path: Armature/Root/Body_Upper/Head/Head_end
+        weight: 1
+      - path: Armature/Root/Body_Upper/IK_Arm_Left
+        weight: 1
+      - path: Armature/Root/Body_Upper/IK_Arm_Left/IK_Arm_Left_end
+        weight: 1
+      - path: Armature/Root/Body_Upper/IK_Arm_Right
+        weight: 1
+      - path: Armature/Root/Body_Upper/IK_Arm_Right/IK_Arm_Right_end
+        weight: 1
+      - path: Armature/Root/Foot_1_Left
+        weight: 1
+      - path: Armature/Root/Foot_1_Left/Foot_2_Left
+        weight: 1
+      - path: Armature/Root/Foot_1_Left/Foot_2_Left/Foot_2_Left_end
+        weight: 1
+      - path: Armature/Root/Foot_1_Right
+        weight: 1
+      - path: Armature/Root/Foot_1_Right/Foot_2_Right
+        weight: 1
+      - path: Armature/Root/Foot_1_Right/Foot_2_Right/Foot_2_Right_end
+        weight: 1
+      - path: Armature/Root/IK_Foot_Left
+        weight: 1
+      - path: Armature/Root/IK_Foot_Left/IK_Foot_Left_end
+        weight: 1
+      - path: Armature/Root/IK_Foot_Right
+        weight: 1
+      - path: Armature/Root/IK_Foot_Right/IK_Foot_Right_end
+        weight: 1
+      - path: Player
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump_loop
+      takeName: Armature|CharacterAnimation
+      internalID: 7400012
+      firstFrame: 329
+      lastFrame: 400
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -660,11 +826,11 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Jump_loop
+      name: Float
       takeName: Armature|CharacterAnimation
-      internalID: 7400012
-      firstFrame: 360
-      lastFrame: 400
+      internalID: 7400014
+      firstFrame: 440
+      lastFrame: 580
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -746,8 +912,8 @@ ModelImporter:
       name: Jump_end
       takeName: Armature|CharacterAnimation
       internalID: 7400016
-      firstFrame: 640
-      lastFrame: 660
+      firstFrame: 410
+      lastFrame: 450
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
